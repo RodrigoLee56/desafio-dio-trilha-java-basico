@@ -1,1 +1,1 @@
-# desafio---DIO---Trilha-Java-B-sico
+# desafio-dio-trilha-java-basico
